@@ -3,12 +3,26 @@
   border-radius: 5px;
   padding: 0.4rem 0.5rem;
   margin: 0.3rem 0;
+  
+  &--subscribe {
+    padding: .8rem 2rem;
+    background-color: #cccccc;
+  }
 
-//   &--wide { 
-    
-//   }
+}
+.btn-verde {
+  width: 200px;
+  border-top: 2rem;
+  border-bottom: 2rem;
+  background-color:$greenAdl;
+  color:white;
+}
 
-//   &__img {
-    
-//   }
+.btn-google {
+  display: block;
+  align-items: center;
+  border-top: 2rem;
+  border-bottom: 2rem;
+  width: 200px;
+
 }
